@@ -12,12 +12,13 @@
 
 #sign-up-page{
     display: flex;
+    height: 100vh;
 }
 
 #sidebar{
     display: flex;
     flex-direction: column;
-    width: 20vw;
+    width: 25vw;
     background-image: url('./assets/halie-west-25xggax4bSA-unsplash.jpg');
     justify-content: end;
 }
