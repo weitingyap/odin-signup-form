@@ -32,3 +32,14 @@
     display: flex;
     width: 80vw;
 }
+
+fieldset{
+    display: flex;
+    border: none;
+    gap: 12px;
+}
+
+.formfield{
+    display: flex;
+    flex-direction: column;
+}
