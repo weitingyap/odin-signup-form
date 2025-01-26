@@ -10,6 +10,17 @@
     font-family: 'open_sansregular', sans-serif;
 }
 
-#helloworld {
-    color: red;
+#sign-up-page{
+    display: flex;
+}
+
+#sidebar{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+}
+
+#form{
+    display: flex;
+    width: 80vw;
 }
