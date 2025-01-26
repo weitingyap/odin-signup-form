@@ -21,6 +21,7 @@
     width: 25vw;
     background-image: url('./assets/halie-west-25xggax4bSA-unsplash.jpg');
     justify-content: end;
+    padding: 12px;
 }
 
 #form{
