@@ -24,6 +24,11 @@
     padding: 12px;
 }
 
+p{
+    margin: 0;
+    padding: 0;
+}
+
 #sidebar, #sidebar a{
     color: white;
 }
@@ -31,8 +36,10 @@
 #main{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    gap: 20px;
     width: 75vw;
-    padding: 12px;
+    padding: 20px;
 }
 
 .landing-text{
