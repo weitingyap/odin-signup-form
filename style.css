@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('./assets/open-sans-font/OpenSans-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+    font-family: 'open_sansregular', sans-serif;
+}
+
 #helloworld {
     color: red;
 }
