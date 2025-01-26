@@ -43,3 +43,9 @@ fieldset{
     display: flex;
     flex-direction: column;
 }
+
+label{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
