@@ -52,12 +52,21 @@ p{
     width: 100%;
 }
 
+form {
+    width: 100%;
+}
+
 fieldset{
     display: flex;
     border: none;
     gap: 12px;
     margin: 0;
     padding: 0;
+}
+
+#form-input{
+    width: 100%;
+    background-color: forestgreen;
 }
 
 .formfield{
