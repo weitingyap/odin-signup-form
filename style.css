@@ -100,5 +100,12 @@ label{
 }
 
 #create-acc-btn{
+    width: 40vw;
+    padding: 12px;
     margin: 0px 20px;
+    background-color: darkgreen;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    border-radius: 12px;
 }
