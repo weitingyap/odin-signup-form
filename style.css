@@ -15,6 +15,15 @@
     height: 100vh;
 }
 
+/* Reset default styling */
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+/* Sidebar related styling */
+
 #sidebar{
     display: flex;
     flex-direction: column;
@@ -24,14 +33,11 @@
     padding: 12px;
 }
 
-p{
-    margin: 0;
-    padding: 0;
-}
-
 #sidebar, #sidebar a{
     color: white;
 }
+
+/* Main body related styling */
 
 #main{
     display: flex;
@@ -50,6 +56,8 @@ p{
     padding: 0px 20px;
 }
 
+/* Form related styling */
+
 #form{
     display: flex;
     width: 100%;
@@ -57,6 +65,11 @@ p{
 
 form {
     width: 100%;
+}
+
+.form-title{
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
 fieldset{
@@ -67,22 +80,17 @@ fieldset{
     padding: 0;
 }
 
+.formfield{
+    display: flex;
+    flex-direction: column;
+}
+
 #form-input{
     width: 100%;
     background-color: white;
     box-shadow: 0px 5px 5px darkgray;
     padding: 20px;
     margin: 20px 0px;
-}
-
-.form-title{
-    font-size: 1.2rem;
-    font-weight: bold;
-}
-
-.formfield{
-    display: flex;
-    flex-direction: column;
 }
 
 label{
