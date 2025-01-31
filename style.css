@@ -93,6 +93,13 @@ fieldset{
     padding: 20px;
 }
 
+input:focus{
+    border-color: #434ff7;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px darkgray;
+    outline: none;
+}
+
 label{
     text-transform: uppercase;
     font-weight: bold;
