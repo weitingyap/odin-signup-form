@@ -85,3 +85,7 @@ label{
     font-weight: bold;
     font-size: 0.8rem;
 }
+
+#create-acc-btn{
+    margin: 0px 20px;
+}
