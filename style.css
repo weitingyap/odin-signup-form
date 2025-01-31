@@ -42,6 +42,22 @@ p{
     color: white;
 }
 
+#sidebar-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    background: rgb(128, 128, 128, 0.2);
+    padding: 20px;
+}
+
+#sidebar-logo-name{
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
 /* Main body related styling */
 
 #main{
