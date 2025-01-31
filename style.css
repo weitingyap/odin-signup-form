@@ -39,12 +39,15 @@ p{
     justify-content: center;
     gap: 20px;
     width: 75vw;
-    padding: 20px;
 }
 
 .landing-text{
     font-weight: bold;
     font-size: 1.2rem;
+}
+
+#main p{
+    padding: 0px 20px;
 }
 
 #form{
