@@ -30,6 +30,7 @@ p{
     width: 25vw;
     background-image: url('./assets/halie-west-25xggax4bSA-unsplash.jpg');
     justify-content: end;
+    align-items: center;
     padding: 12px;
 }
 
