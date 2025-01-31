@@ -62,6 +62,7 @@ form {
     display: flex;
     flex-direction: column;
     width: 100%;
+    gap: 32px;
 }
 
 .form-title{
@@ -90,7 +91,6 @@ fieldset{
     background-color: white;
     box-shadow: 1px 0px 10px darkgray;
     padding: 20px;
-    margin: 20px 0px;
 }
 
 label{
