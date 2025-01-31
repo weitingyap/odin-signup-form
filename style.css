@@ -10,6 +10,10 @@
     font-family: 'open_sansregular', sans-serif;
 }
 
+body {
+    margin: 0px;
+}
+
 #sign-up-page{
     display: flex;
     height: 100vh;
